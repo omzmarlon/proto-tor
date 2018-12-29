@@ -1,0 +1,12 @@
+{
+    "IncomingTcpAddr": "10.0.0.14:8080",
+    "DataBase":{"MSFT": "Microsoft",
+                "AMZN": "Amazon",
+                "APPL": "Apple",
+                "GOOGL": "Google",
+                "GS": "Goldman Sachs",
+                "AMD": "Advanced Micro Devices Inc",
+                "AKAM": "Akamai Technologies Inc",
+                "EA": "Electronic Arts",
+                "EXPE": "Expedia Group"}
+  }

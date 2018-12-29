@@ -1,0 +1,6 @@
+{
+  "IncomingTcpAddr": "127.0.0.1:8080",
+  "DataBase":{"a": "test1",
+              "b": "test2",
+              "c": "test3"}
+}
